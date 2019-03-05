@@ -32,4 +32,7 @@
   <prescription link="/zjns/rx-NeteaseCloudMusic" />
   <prescription link="/zjns/rx-QQ" />
   <prescription link="/zjns/rxs-PrescriptionList" />
+  <!-- 自定义规则 -->
+  <prescription type="activity" class="cn.ipush.android.service.DaemonService" sender="other-app"/>
+  <prescription type="service" class="com.huawei.android.pushagent.PushBootReceiver" sender="other-app"/>
 </prescriptions>
