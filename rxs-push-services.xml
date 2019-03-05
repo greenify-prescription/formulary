@@ -1,0 +1,38 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v1">
+  <prescription link="/GreenifyUnofficalPrescription/rx-baidupush" />
+  <prescription link="/GreenifyUnofficalPrescription/rx-huaweipush" />
+  <prescription link="/GreenifyUnofficalPrescription/rx-jpush" />
+  <prescription link="/GreenifyUnofficalPrescription/rx-tpush" />
+  <prescription link="/LeeReindeer/rx-wechat" />
+  <prescription link="/WitherZuo/rx-coolapk-nosplash" />
+  <prescription link="/WitherZuo/rx-pushserviceslist" />
+  <prescription link="/greenify/rx-baidu-push" />
+  <prescription link="/greenify/rx-baidu-sso" />
+  <prescription link="/greenify/rx-mipush" />
+  <prescription link="/greenify/rx-mipush-wakeups" />
+  <prescription link="/greenify/rx-rong-push" />
+  <prescription link="/greenify/rx-xinge-push" />
+  <prescription link="/ipcjs/rx-jpush" />
+  <prescription link="/ipcjs/rx-umeng-push" />
+  <prescription link="/liangyuteng0927/rx-alipush" />
+  <prescription link="/liangyuteng0927/rx-igexin" />
+  <prescription link="/liangyuteng0927/rx-qq" />
+  <prescription link="/oasisfeng/rx-getui-wakeups" />
+  <prescription link="/oasisfeng/rx-sogou-push" />
+  <prescription link="/oasisfeng/rx-taobao-web-jump" />
+  <prescription link="/oasisfeng/rx-toutiao-hypnosis" />
+  <prescription link="/oasisfeng/rxs-push-services" />
+  <prescription link="/shanefengcn/rx-pushservices" />
+  <prescription link="/simonsmh/rx-zero" />
+  <prescription link="/wyapples/rx-igexin" />
+  <prescription link="/wyapples/rx-jpush" />
+  <prescription link="/wyapples/rx-mipush" />
+  <prescription link="/wyapples/rx-umeng" />
+  <prescription link="/wyapples/rxs-wyapples" />
+  <prescription link="/zjns/rx-NeteaseCloudMusic" />
+  <prescription link="/zjns/rx-QQ" />
+  <prescription link="/zjns/rxs-PrescriptionList" />
+  <!-- 自定义规则 -->
+  <prescription type="activity" class="cn.ipush.android.service.DaemonService" sender="other-app"/>
+  <prescription type="service" class="com.huawei.android.pushagent.PushBootReceiver" sender="other-app"/>
+</prescriptions>
