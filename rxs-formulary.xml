@@ -12,6 +12,7 @@
   <prescription link="/greenify/rx-mipush-wakeups" />
   <prescription link="/greenify/rx-rong-push" />
   <prescription link="/greenify/rx-xinge-push" />
+  <prescription link="/greenify-prescription/rx-miui" />
   <prescription link="/ipcjs/rx-jpush" />
   <prescription link="/ipcjs/rx-umeng-push" />
   <prescription link="/liangyuteng0927/rx-alipush" />
