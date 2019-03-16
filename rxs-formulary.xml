@@ -15,9 +15,9 @@
   <prescription link="/greenify-prescription/rx-miui" />
   <prescription link="/ipcjs/rx-jpush" />
   <prescription link="/ipcjs/rx-umeng-push" />
-  <prescription link="/liangyuteng0927/rx-alipush" />
-  <prescription link="/liangyuteng0927/rx-igexin" />
-  <prescription link="/liangyuteng0927/rx-qq" />
+  <prescription link="/Trumeet/rx-alipush" />
+  <prescription link="/Trumeet/rx-igexin" />
+  <prescription link="/Trumeet/rx-qq" />
   <prescription link="/oasisfeng/rx-getui-wakeups" />
   <prescription link="/oasisfeng/rx-sogou-push" />
   <prescription link="/oasisfeng/rx-taobao-web-jump" />
